@@ -3,3 +3,12 @@
 
 My preferred coding language is python3 but I sometimes dabble in javaScript.
 If you want to know more about me, git checkout my portfolio site: https://jonatan-mone.github.io/jonatan-portfolio/
+
+#### Languages and coding tools
+* Python3
+* javaScript
+* html
+* css
+* jekyll
+* jQuery
+* 
