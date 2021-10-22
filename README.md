@@ -11,4 +11,3 @@ If you want to know more about me, git checkout my portfolio site: https://jonat
 * css
 * jekyll
 * jQuery
-* 
